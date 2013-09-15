@@ -1,0 +1,18 @@
+<html><u>TOWER OF POWER</u>
+<P>
+<P>The objective of Tower of Power is to eliminate all the cards.
+<P>The cards are set up in a pyramid formation with 7 rows.
+<P>In order to earn points you must match cards, deleted rows will earn bonus points.
+<P>The cards you match will have to equal 13 to be a valid pair, 
+<P>aces are worth one and king worth 13.
+<P>If a lower card is touching a higher card it will NOT be allowed to be used.
+<P>That said the two cards beneath any higher card must 
+<P>be removed before proceeding up the pyramid.
+<P>Also, the score values of cards will increase as you climb the pyramid.
+<P>In order to cycle throught the deck you must double click on any 
+<P>card, and when the deck has been fully moved it can be reset
+<P>by double clicking on a card in the pyramid.
+<P>You will automatically end the game after cycling
+<P>though the deck 5 times, when the deck is cleared NOTE: There is
+<P>an invisible button that can be clicked to reset where the deck used to be.
+<P>Tip: This game is much harder than it seems think carefully about your moves.
